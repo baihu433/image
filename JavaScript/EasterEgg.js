@@ -1,0 +1,5 @@
+console.log('#############')
+console.log('恭喜你！天选之人！')
+console.log('你找到了彩蛋群聊')
+console.log('Q群: 879718035')
+console.log('#############')
